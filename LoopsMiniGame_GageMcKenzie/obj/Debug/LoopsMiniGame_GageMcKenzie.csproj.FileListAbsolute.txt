@@ -1,0 +1,8 @@
+C:\Users\w0526843\LoopsMiniGame_GageMcKenzie\LoopsMiniGame_GageMcKenzie\bin\Debug\LoopsMiniGame_GageMcKenzie.exe.config
+C:\Users\w0526843\LoopsMiniGame_GageMcKenzie\LoopsMiniGame_GageMcKenzie\bin\Debug\LoopsMiniGame_GageMcKenzie.exe
+C:\Users\w0526843\LoopsMiniGame_GageMcKenzie\LoopsMiniGame_GageMcKenzie\bin\Debug\LoopsMiniGame_GageMcKenzie.pdb
+C:\Users\w0526843\LoopsMiniGame_GageMcKenzie\LoopsMiniGame_GageMcKenzie\obj\Debug\LoopsMiniGame_GageMcKenzie.csproj.AssemblyReference.cache
+C:\Users\w0526843\LoopsMiniGame_GageMcKenzie\LoopsMiniGame_GageMcKenzie\obj\Debug\LoopsMiniGame_GageMcKenzie.csproj.CoreCompileInputs.cache
+C:\Users\w0526843\LoopsMiniGame_GageMcKenzie\LoopsMiniGame_GageMcKenzie\obj\Debug\LoopsMiniGame_GageMcKenzie.exe
+C:\Users\w0526843\LoopsMiniGame_GageMcKenzie\LoopsMiniGame_GageMcKenzie\obj\Debug\LoopsMiniGame_GageMcKenzie.pdb
+C:\Users\w0526843\LoopsMiniGame_GageMcKenzie\LoopsMiniGame_GageMcKenzie\obj\Debug\LoopsMiniGame_GageMcKenzie.exe.config
