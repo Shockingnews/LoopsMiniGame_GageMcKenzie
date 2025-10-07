@@ -39,46 +39,50 @@ namespace LoopsMiniGame_GageMcKenzie
             lastSletion = Console.ReadKey(true);
             if (lastSletion.Key == ConsoleKey.W)
             {
-
+                Console.BackgroundColor = ConsoleColor.Black;
                 Console.SetCursorPosition(x,y -= 1);
                 Console.Write("G");
                 if (y > 0)
                 {
                     Console.SetCursorPosition(x, y + 1);
-                    Console.BackgroundColor = ConsoleColor.Black;
+                    Console.BackgroundColor = ConsoleColor.White;
                     Console.Write(" ");
+                    
                 }
             }
             else if (lastSletion.Key == ConsoleKey.S)
             {
+                Console.BackgroundColor = ConsoleColor.Black;
                 Console.SetCursorPosition(x,y+=1);
                 Console.Write("G");
                 if (y > 0)
                 {
                     Console.SetCursorPosition(x, y - 1);
-                    Console.BackgroundColor = ConsoleColor.Black;
+                    Console.BackgroundColor = ConsoleColor.White;
                     Console.Write(" ");
                 }
             }
             else if (lastSletion.Key == ConsoleKey.A)
             {
+                Console.BackgroundColor = ConsoleColor.Black;
                 Console.SetCursorPosition(x -=1 , y);
                 Console.Write("G");
                 if (x > 0)
                 {
                     Console.SetCursorPosition(x+1, y);
-                    Console.BackgroundColor = ConsoleColor.Black;
+                    Console.BackgroundColor = ConsoleColor.White;
                     Console.Write(" ");
                 }
             }
             else if (lastSletion.Key == ConsoleKey.D)
             {
+                Console.BackgroundColor = ConsoleColor.Black;
                 Console.SetCursorPosition(x+=1, y);
                 Console.Write("G");
                 if (x > 0)
                 {
                     Console.SetCursorPosition(x- 1, y);
-                    Console.BackgroundColor = ConsoleColor.Black;
+                    Console.BackgroundColor = ConsoleColor.White;
                     Console.Write(" ");
                 }
             }
